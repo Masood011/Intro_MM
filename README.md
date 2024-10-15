@@ -7,9 +7,9 @@
 - <b>Tableau Visualization</b>
   - [AirBnB Seattle Visualization](https://public.tableau.com/app/profile/masood.mohammed/viz/AirBnBProject1_17267776922230/Dashboard1)
 - <b>Microsoft Excel Project</b>
-  - [
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Bike Sales](https://github.com/Masood011/Portfolio_Projects/tree/Microsoft-Excel-Project)
+- <b>Power BI</b>
+  - [Data Professional Survey report](https://app.powerbi.com/view?r=eyJrIjoiYzYyMzg3OGQtNTU1NC00NmY3LWIxMGYtYjdkYTU3MjQ2ZmUwIiwidCI6IjAzNWRkZWY2LTI0MzMtNDhiNi04NTI2LTcwY2E4MTgxZjc2ZCIsImMiOjN9)
 
 
 <h2> 🎖️🎓Certifications: </h2>
